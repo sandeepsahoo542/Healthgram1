@@ -1,0 +1,22 @@
+.right-food {
+ 
+    float: right;
+    margin-top: 155px;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    height: 500px;
+
+}
+
+.long-image {
+    margin-top: px;
+    margin-left: 50px;
+    height: 210px;
+    width:600px;
+    bottom: 0px;
+}
+
+.mid-image {
+    margin-left: 50px;
+}
